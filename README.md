@@ -2,7 +2,7 @@
 
 暂时只支持百度页面
 
-效果：
+#效果：
 
 ![image](https://user-images.githubusercontent.com/86729445/163562118-6094c33b-9e12-4163-ac1d-25bb87103223.png)
 
