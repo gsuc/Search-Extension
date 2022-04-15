@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.3
 // @description  搜索扩展（暂只支持百度页面）
-// @author       Gsuc
+// @author       Pupu
 // @match        *://www.baidu.com/s?*
 // @match        *://www.google.com.hk/s?*
 // @match        *://www.google.com/search?*
