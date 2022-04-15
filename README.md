@@ -1,2 +1,4 @@
-# Search-Extension
-Search-Extension(Baidu)
+# 搜索扩展
+
+暂时只支持百度页面
+
